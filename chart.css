@@ -8,3 +8,9 @@ h4.title{
      display: block;
      text-align: center;
 }
+.clearfix{
+    margin-bottom: 20px!important;
+    display: block;
+    height: 20px;
+    width: 100%;
+}
